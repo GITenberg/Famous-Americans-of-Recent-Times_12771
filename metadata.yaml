@@ -1,0 +1,29 @@
+_repo: Famous-Americans-of-Recent-Times_12771
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parton, James
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '2129'
+    url: http://www.gutenberg.org/2009/agents/2129
+    wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: ''
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- Biography'
+- GITenberg
+tableOfContents: Henry Clay -- Daniel Webster -- John C. Calhoun -- John Randolph
+  -- Stephen Girard and his college -- James Gordon Bennett and the New York Herald
+  -- Charles Goodyear -- Henry Ward Beecher and his church -- Commodore Vanderbilt
+  -- Theodosia Burr -- John Jacob Astor.
+title: Famous Americans of Recent Times
+url: http://www.gutenberg.org/ebooks/12771
