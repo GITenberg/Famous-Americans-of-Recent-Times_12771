@@ -1,5 +1,8 @@
 _repo: Famous-Americans-of-Recent-Times_12771
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parton, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2129
     wikipedia: http://en.wikipedia.org/wiki/James_Parton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12771#Famous-Americans-of-Recent-Times
 gutenberg_issued: '2004-06-29'
 gutenberg_type: Text
 identifiers:
